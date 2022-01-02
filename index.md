@@ -49,7 +49,7 @@ People always not really get the meaning of their emotion, but can feel better w
 [^5]:  ‘Magenta’, Google AI. https://magenta.tensorflow.org
 [^6]: ‘What is Cognitive Behavioral Therapy?’, American Psychological Association. https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral (accessed Oct. 21, 2021).
 
-
+![image-20211104215829514](index.assets/image-20211104215829514.png)
 
 ### Discussion
 
