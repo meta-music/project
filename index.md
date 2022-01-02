@@ -1,6 +1,6 @@
-## Welcome to Music Journal
+## Welcome to MetaMusic
 
-该网站用于介绍项目, 使用Github Page制作, 网站将会不断更新.
+该网站用于介绍MetaMusic项目, 使用Github Page制作, 网站将会不断更新.
 
 - 准备期 (11~12月)主要内容为团队成员间的分享讨论 - 并输出最终的Proposal (完成)
 - 第一期 (2022.1~4月) 第一阶段产品上线
@@ -25,6 +25,16 @@
 ### Proposal Draft
 
 待讨论, 有想法可以分享出来[Link](https://docs.qq.com/doc/DYlRvWUVSSlBNWXNp)
+
+Project title:  MetaMusic - An emotional music community by writing Cognitive Diary
+
+Project start: December 2021
+
+Problem:  Help people with emotion regulation by music. (emotion such as: anxiety, stress and etc.)
+
+Idea:  Develop and practice emotional regulation by music diary in an online community. (Tech including, Mobile App, ABC Model, Algorithmic Composition)
+
+Intended impact: Mental sub-health people
 
 The university of Hong Kong made a survey revealed:  [97% Hong Kong citizens have sub-optimal health](https://www.hkupop.hku.hk/english/report/subhealth/content/resources/pr.pdf)[^1], and statistical results of the Psychological Institute of the Chinese Academy of Sciences show that more than 70% of China is in mental sub-health. More and more people began to realize this warning signs, and go to the hospital. However, Especially in the mainland, there is a shortage of hospital-related resources, often takes 4 to 6 months to make an appointment, and mental health market is relatively lacking. Therefore, this project - MetaMusic, aims to help more people who are troubled by mental sub-health through IT and some other technology integration such as music diary, computerized [cognitive behavioral therapy](https://betterhumans.coach.me/cognitive-journaling-a-systematic-method-to-overcome-negative-beliefs-119be459842c)[^2] and shareable [improvisational music therapy](https://my.clevelandclinic.org/health/treatments/8817-music-therapy)[^3].
 
