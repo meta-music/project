@@ -7,13 +7,9 @@
 - 第二期 (2022.5~7月) 完善产品, 初步运营
 - 第三期 (2022.8后) 开源运营
 
-### Group Members
+### About us
 
-1. Liu Shu
-2. Ning Jiafeng
-3. Wu Chenjun
-4. Xia Jianfeng
-5. Yao Mengting
+我们是香港大学ECom&ICom专业的研究生, MetaMusic是我们这个小组的毕业项目, 同时也是一个开源项目, 如果你对这个项目感兴趣, 欢迎你的加入!
 
 ### How to Join us
 
@@ -21,6 +17,15 @@
 1. 申请[GitHub 账号](https://github.com/signup)
 2. 将账号名称发给 Xia JF 开通权限
 3. You can use the [editor on GitHub](https://github.com/meta-music/project/blob/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. 
+
+#### Group Members
+
+1. Liu Shu
+2. Ning Jiafeng
+3. Wu Chenjun
+4. Xia Jianfeng
+5. Yao Mengting
+
 
 ### Proposal Draft
 
